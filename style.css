@@ -47,6 +47,10 @@ header {
   position: relative;
   transition: all 0.3s ease;
 }
+.nav-links a:hover {
+  color: #ff2c2c;
+  text-shadow: 0 0 8px red;
+}
 
 .nav-links a {
   color: white;
